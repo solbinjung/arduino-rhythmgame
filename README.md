@@ -1,6 +1,7 @@
 # 🎮 아두이노 I2C LCD 리듬 게임 (Arduino LCD Rhythm Game)
 
 개발 기간: 2023.06
+
 시연 영상: <https://youtu.be/b4S-V8L3bKY>
 
 I2C 16x2 Character LCD의 폰트 표현 한계를 극복하기 위해 **사용자 정의 문자(Custom Character Byte) 기법**을 도입, 제한된 픽셀 안에서 3개 라인의 동적 노트 낙하 애니메이션과 입력 동기화를 구현한 임베디드 피지컬 컴퓨팅 프로젝트입니다.
