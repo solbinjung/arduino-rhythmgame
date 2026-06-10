@@ -32,7 +32,7 @@
 ![play00-03](https://github.com/solbinjung/arduino-rhythmgame/blob/main/play00-03.JPG)
 
 <details>
-<summary>바이너리 데이터 코드 보기</summary>
+<summary>바이너리 데이터 코드</summary>
 
 ```cpp
 byte play01[8] = {
