@@ -32,7 +32,7 @@
 ![play00-03](https://github.com/solbinjung/arduino-rhythmgame/blob/main/play00-03.JPG)
 
 <details>
-<summary>🛠️ Custom Character 바이너리 데이터 코드 보기</summary>
+<summary>바이너리 데이터 코드</summary>
 
 ```cpp
 byte play01[8] = {
@@ -45,6 +45,7 @@ byte play01[8] = {
   B00000,
   B00000,
 };
+
 </details>
 
 ### 2. 주기적 프레임 제어를 통한 애니메이션 루프 구현
