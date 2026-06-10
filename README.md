@@ -1,6 +1,6 @@
 # 🎮 아두이노 I2C LCD 리듬 게임 (Arduino LCD Rhythm Game)
 
-개발 기간: 2023.06
+개발 기간: 2023.06 (약 1개월)
 
 시연 영상: <https://youtu.be/b4S-V8L3bKY>
 
