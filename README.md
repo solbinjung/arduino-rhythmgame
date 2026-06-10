@@ -17,6 +17,7 @@
 * **입력 장치:** 푸시 버튼 3개 (Digital Pin 8, 9, 10)
 * **회로 안정성:** 각 버튼에 **220Ω 풀다운(Pull-down) 저항**을 배치하여 플로팅 현상을 방지하고 디지털 입력 신호의 신뢰성 확보
 
+![회로설계](https://github.com/solbinjung/arduino-rhythmgame/blob/main/%ED%9A%8C%EB%A1%9C%EC%84%A4%EA%B3%84.jpg)
 ---
 
 ## 💡 핵심 구현 및 기술적 문제 해결
